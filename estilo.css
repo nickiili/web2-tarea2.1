@@ -1,0 +1,183 @@
+.principal
+{
+    background-color: #291e40;
+    display: flex; 
+    flex-direction: row; 
+    flex-wrap: wrap; 
+}
+.caja
+{
+    background-color: #4f2d4b;
+    width: 300px;
+    height: 448px;
+    margin: 5px; 
+}
+.nombre
+{
+    color: white;
+    font-size: 10px;
+    font-family: 'Arial';
+}
+.caja-1
+{
+    width: 150px;
+    margin: 0 auto;
+    display:flex;
+}
+#c1
+{
+    background-color: #a3606d;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+#c2
+{
+    background-color: #a3606d;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+#c3
+{
+    background-color: #a3606d;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+.caja1
+{
+    width: 200px;
+    margin: 0 auto;
+}
+#c4
+{
+    background-color:#9aedb5;
+    width: 180px;
+    height: 80px;
+    margin: 5px;
+}
+#c5
+{
+    background-color: #9aedb5;
+    width: 180px;
+    height: 80px;
+    margin: 5px;
+}
+#c6
+{
+    background-color: #9aedb5;
+    width: 180px;
+    height: 80px;
+    margin: 5px;
+}
+.caja2
+{
+    width: 150px;
+    margin: 0 auto;
+    display:flex;
+}
+#c7
+{
+    background-color: #ab9a89;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+#c8
+{
+    background-color: #ab9a89;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+#c9
+{
+    background-color: #ab9a89;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+.caja3
+{
+    margin-left: 50px;
+    margin-top: 125px;
+
+}
+#c10
+{
+    background-color: #a3606d;
+    width: 180px;
+    height: 80px;
+    margin: 5px;
+}
+#c11
+{
+    background-color: #ab9a89;
+    width: 180px;
+    height: 80px;
+    margin: 5px;
+}
+#c12
+{
+    background-color: #9aedb5;
+    width: 180px;
+    height: 80px;
+    margin: 5px;
+}
+
+.caja4
+{
+    width: 150px;
+    margin: 0 auto;
+    display:flex;
+}
+#c13
+{
+    background-color: #ab9a89;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+#c14
+{
+    background-color: #ab9a89;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+#c15
+{
+    background-color: #ab9a89;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+.caja5
+{
+    width: 150px;
+    margin: 0 auto;
+    display:flex;
+}
+#c16
+{
+    background-color: #a3606d;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+#c17
+{
+    background-color: #a3606d;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+#c18
+{
+    background-color: #a3606d;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+
